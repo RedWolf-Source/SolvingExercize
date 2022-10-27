@@ -1,4 +1,5 @@
 import java.lang.Math;
+import java.util.Scanner;
 
 public class Exercise {
 
@@ -13,8 +14,20 @@ public class Exercise {
         double result = Math.E;
         System.out.println(String.format("%.1f", result));
     }
+    public static void exercise3 () {
+        Scanner in = new Scanner(System.in);
+        String number = in.nextLine();
+        System.out.println("You entered number: " + number);
+    }
+    public static void exercise4 () {
+        Scanner in = new Scanner(System.in);
+        String number = in.nextLine();
+        System.out.println(number + " - this is entered number");
+    }
     public static void main(String[] args) {
         exercise1();
         exercise2();
+        exercise3();
+        exercise4();
     }
 }
