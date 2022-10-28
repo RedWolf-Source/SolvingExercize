@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f371393-d4ee-4201-8ee0-4996f1bf1224" name="Changes" comment="3rd and 4th exercises solved" />
+    <list default="true" id="1f371393-d4ee-4201-8ee0-4996f1bf1224" name="Changes" comment="3rd and 4th exercises solved">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +66,8 @@
       <updated>1666703566337</updated>
       <workItem from="1666772327351" duration="965000" />
       <workItem from="1666843342580" duration="611000" />
+      <workItem from="1666843991362" duration="619000" />
+      <workItem from="1666947305410" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="2nd exercise solved">
       <created>1666773891966</created>
@@ -85,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666843953483</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3rd and 4th exercises solved">
+      <created>1666844006029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666844006029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

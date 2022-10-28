@@ -24,10 +24,26 @@ public class Exercise {
         String number = in.nextLine();
         System.out.println(number + " - this is entered number");
     }
+
+    public static void exercise5 () {
+        System.out.println("1 13 49");
+    }
+
+    public static void exercise6 () {
+        System.out.println("7  15  100");
+    }
+    public static void exercise10 () {
+        System.out.println("5");
+        System.out.println("10");
+        System.out.println("21");
+    }
     public static void main(String[] args) {
         exercise1();
         exercise2();
-        exercise3();
-        exercise4();
+        // exercise3();
+        // exercise4();
+        exercise5();
+        exercise6();
+        exercise10();
     }
 }
